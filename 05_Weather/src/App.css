@@ -1,0 +1,39 @@
+.weatherBg{
+
+  height:50vh;
+  display:flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.heading{
+  color:antiquewhite;
+  font-weight: 700; 
+
+}
+.weatherResultBox{
+  margin: auto;
+  height: 300px;
+  width:500px;
+  background-color: #e3eaa7;
+}
+.weatherIcon{
+  margin-top: 2rem;
+  height: 150px;
+  width: 150px;
+
+}
+.weatherCity{
+  font-size: 35px;
+}
+.weatherTemp{
+  font-size: 50px;
+  font-weight: 700;
+}
+.c{
+ 
+  background: url("https://wallup.net/wp-content/uploads/2019/09/454251-sky-nature-blue-clouds-sun-sunset-orange-sunrise.jpg");
+  height: 100vh;
+  
+
+}
